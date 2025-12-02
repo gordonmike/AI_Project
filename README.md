@@ -1,9 +1,3 @@
-Here is the **updated complete Markdown**, with your added section *fully integrated* and formatted properly.
-You can paste this directly into your GitHub `README.md`.
-
----
-
-````markdown
 # Intelligent Community Complaint Classification System
 
 **An Artificial Intelligence project to automate the sorting of citizen complaints using Natural Language Processing (NLP) and Hybrid Classification logic.**
@@ -55,9 +49,7 @@ Install the needed Python libraries:
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
-````
 
----
 
 # 🚀 Execution Instructions
 
