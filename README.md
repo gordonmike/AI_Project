@@ -38,7 +38,6 @@ The system processes text through three distinct layers:
     * **Layer 3 (Safety):** If confidence is low (< 45%) or the content is detected as irrelevant -> **Classified as "Others"**.
 
 ---
-
 ## 💻 Dependencies & Requirements
 To run this project, you need Python installed along with the following libraries:
 
@@ -49,6 +48,3 @@ To run this project, you need Python installed along with the following librarie
 **Installation Command:**
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
-
-
-The project can be run by using the AI_Semester_Project.ipynb file in colab or other IDE's that support Interactive Python Notebooks
