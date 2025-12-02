@@ -65,7 +65,8 @@ git clone https://github.com/YourUsername/Smart-Complaint-System.git
 
 ---
 
-## 2. Open the Project
+## Implementation
+### Open the Project
 
 Use any of the following:
 
@@ -75,7 +76,7 @@ Use any of the following:
 
 ---
 
-## 3. Run All Cells
+### Run All Cells
 
 * **Steps 1 & 2:** Generate dataset + train model
 * **Step 3:** Display Confusion Matrix + Accuracy
